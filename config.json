@@ -1,0 +1,10 @@
+{
+    "whatsapp_export_path": "whatsapp.txt",
+    "person1": "Peson 1",
+    "person2": "Person 2",
+    "phrases_to_ignore": [
+        "<Media omitted>",
+        "null",
+        "You deleted this message"
+    ]
+}
